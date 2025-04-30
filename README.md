@@ -1,6 +1,9 @@
 ![Header](https://github.com/AdDoha0/AdDoha0/blob/main/assets/s.gif)
 
 
+# Rust/backend developer 
+
+
 <p>
 
 <img alt="React" src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=orange" />
@@ -14,3 +17,9 @@
 <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
 
 <p>
+
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exampledev&layout=compact&theme=radical" />
+</p>
