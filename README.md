@@ -3,6 +3,9 @@
 
 # Rust/backend developer 
 
+I'm **Adam**, a backend developer from **Chechnya** 
+I enjoy building fast and reliable applications using **Rust** 🦀 
+
 
 <p>
 
