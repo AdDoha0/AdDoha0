@@ -1,6 +1,3 @@
-![Header](https://github.com/AdDoha0/AdDoha0/blob/main/assets/s.gif)
-
-
 # Rust/backend developer 
 
 I'm **Adam**, a backend developer from **Chechnya**  
@@ -22,7 +19,7 @@ I enjoy building fast and reliable applications using **Rust** 🦀
 <p>
 
 
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exampledev&layout=compact&theme=radical" />
-</p>
+### 📬 Contact
+
+- Telegram: [@dohaAdam1](https://t.me/@dohaAdam1)
+- Email: adamdoxaev@gmail.com
