@@ -5,7 +5,7 @@ I enjoy building fast and reliable applications using **Rust** 🦀
 
 
 
-#### Languages and Tools
+### Languages and Tools
 <p>
 <img alt="React" src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=orange" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=blue" />
